@@ -11,11 +11,7 @@ Please find the code for AWS
 ## Usage
 ```
 python3 AWS/AWSMetaData.py
-```
 
-```
-python3 Azure/AzureMetaData.py
-```
 
 ## Sample Output
 ```
