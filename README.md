@@ -2,7 +2,6 @@
 
 ## Objective
 A python code to query metadata of an instance.
-Please find the code for AWS and Azure in their respective directories.
 
 ## Requirements
 - Login to the VM instance.
